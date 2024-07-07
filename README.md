@@ -1,5 +1,5 @@
 ### This is a LOCAL change :)
-Test A4 step 8 on LOCAL
+Test A4 step 8 on REMOTE and LOCAL
 # recipe
 line 2 changed remotely
 pound cake
