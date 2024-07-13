@@ -11,3 +11,15 @@ last line changed locally
 # Assignment 5
 
 ### Create local branch
+
+1. Make sure the local repo is up-to-date
+   - git pull
+2. Create a new branch at terminal
+   - git switch -c A5step2
+3. Modify the files needed
+4. Stage and commit
+5. Create an upstream origin on remote repo
+   - git push --set-upstream origin A5step2
+6. push to remote repo
+   
+   
