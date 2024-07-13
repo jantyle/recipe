@@ -21,5 +21,9 @@ last line changed locally
 5. Create an upstream origin on remote repo
    - *git push --set-upstream origin A5step2*
 6. push to remote repo
+
+Here's the pound cake picture for our recipe
+![pound cake](./recipe.jpg)
+
    
    
